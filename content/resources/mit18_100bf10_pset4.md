@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains 5 problems about connected sets, convergence and
   Rudin.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-100b-analysis-i-fall-2010/717bf4bf8377e0bf712c3e288d4f7ceb_MIT18_100BF10_pset4.pdf
+file: /media/courses/18-100b-analysis-i-fall-2010/717bf4bf8377e0bf712c3e288d4f7ceb_MIT18_100BF10_pset4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_100BF10_pset4.pdf
 uid: 717bf4bf-8377-e0bf-712c-3e288d4f7ceb
