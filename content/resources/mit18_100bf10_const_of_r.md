@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings & Notes
 parent_type: CourseSection
+parent_uid: e5dcde0c-4bb2-17c6-c587-fd907be88080
 resourcetype: Document
 title: MIT18_100BF10_Const_of_R.pdf
 uid: 51cf2948-850e-3865-92b6-9c7167d2d5bb

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 3ad89456-ba4e-f1be-74a0-7c7912fb0866
 resourcetype: Document
 title: MIT18_100BF10_pset2sol.pdf
 uid: ebad7d7b-82ee-61ea-72fb-ab92a3e5937f

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings & Notes
 parent_type: CourseSection
+parent_uid: e5dcde0c-4bb2-17c6-c587-fd907be88080
 resourcetype: Document
 title: MIT18_100BF10_RiemannInte.pdf
 uid: 0fd469d4-84da-a147-7141-879ef252dba4

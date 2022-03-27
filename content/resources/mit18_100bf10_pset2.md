@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6ac57f27-80f0-7137-088d-250d37c6a15a
 resourcetype: Document
 title: MIT18_100BF10_pset2.pdf
 uid: a3f19481-8297-a0be-395c-c4603b37a05c

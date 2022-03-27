@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings & Notes
 parent_type: CourseSection
+parent_uid: e5dcde0c-4bb2-17c6-c587-fd907be88080
 resourcetype: Document
 title: MIT18_100BF10_Dvl_Strcs.pdf
 uid: a86090ef-b2b8-c2b5-5e27-179ae17c2007

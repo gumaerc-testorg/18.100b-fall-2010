@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ae754d0f-d11b-9275-5022-41efc9574387
 resourcetype: Document
 title: MIT18_100BF10_Practice1sol.pdf
 uid: 00a16a14-431e-d934-d646-d4a8bada5a82

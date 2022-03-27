@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings & Notes
 parent_type: CourseSection
+parent_uid: e5dcde0c-4bb2-17c6-c587-fd907be88080
 resourcetype: Document
 title: MIT18_100BF10_compactness.pdf
 uid: b7780b2a-0629-359b-11c5-de998c72a147
