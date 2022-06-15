@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides practice quizzes, handwritten and typed solutions,
+  a practice final, and practice final solutions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -28,16 +30,16 @@ SOLUTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Practice quiz 1 ([PDF]({{< baseurl >}}/resources/mit18_100bf10_practice1))
+Practice quiz 1 ({{% resource_link b9cc7d84-fed6-640c-9efb-daa5b094bf44 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 Practice quiz 1 solutions
 
-Handwritten (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_100bf10_practice1sol))
+Handwritten ({{% resource_link 00a16a14-431e-d934-d646-d4a8bada5a82 "PDF" %}})
 
-Typed ([PDF]({{< baseurl >}}/resources/mit18_100bf10_prac1soltyp))
+Typed ({{% resource_link d34c508f-ce11-b901-0406-ec267e58aedd "PDF" %}})
 
 
 {{< tdclose >}}
@@ -48,16 +50,16 @@ Typed ([PDF]({{< baseurl >}}/resources/mit18_100bf10_prac1soltyp))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Practice quiz 2 ([PDF]({{< baseurl >}}/resources/mit18_100bf10_practice2))
+Practice quiz 2 ({{% resource_link 4821a826-148a-19b7-856f-aa3a952c910e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 Practice quiz 2 solutions
 
-Handwritten (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_100bf10_practice2sol))
+Handwritten ({{% resource_link cc9b2fc8-b1d3-54a8-df17-5f89dc12119d "PDF" %}})
 
-Typed ([PDF]({{< baseurl >}}/resources/mit18_100bf10_prac2soltyp))
+Typed ({{% resource_link 38e24109-af28-7b54-a8d9-204a7f66118a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -92,16 +94,16 @@ Practice quiz 3 solutions
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Practice quiz 4 ([PDF]({{< baseurl >}}/resources/mit18_100bf10_prac4))
+Practice quiz 4 ({{% resource_link 8831b252-fbda-527e-cb78-9bd5ff6dd5f8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 Practice quiz 4 solutions
 
-Handwritten (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_100bf10_practice4sol))
+Handwritten ({{% resource_link 290d8bf9-70ee-3460-78ff-997763a23279 "PDF" %}})
 
-Typed ([PDF]({{< baseurl >}}/resources/mit18_100bf10_prac4soltyp))
+Typed ({{% resource_link c644774e-fa2d-5839-ad4f-c3a72da9f9a0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -112,12 +114,12 @@ Typed ([PDF]({{< baseurl >}}/resources/mit18_100bf10_prac4soltyp))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Practice final ([PDF]({{< baseurl >}}/resources/mit18_100bf10_final_prac))
+Practice final ({{% resource_link 9c37ddf2-15ec-9e49-511f-afacf315705d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Practice final solutions ([PDF]({{< baseurl >}}/resources/mit18_100bf10_fin_prac_sol))
+Practice final solutions ({{% resource_link 11379f14-842a-39ab-7c53-8198b5b15f9d "PDF" %}})
 
 
 {{< tdclose >}}

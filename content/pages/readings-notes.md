@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the readings assigned for each session of the course
+  along with supplementary notes.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -107,7 +109,7 @@ Section 2.45-47, and 3.1-7
 Sequential compactness
 {{< tdclose >}}
 {{< tdopen >}}
-Notes ([PDF]({{< baseurl >}}/resources/mit18_100bf10_compactness))
+Notes ({{% resource_link b7780b2a-0629-359b-11c5-de998c72a147 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +133,7 @@ Section 3.8-20
 Construction of the real numbers
 {{< tdclose >}}
 {{< tdopen >}}
-Notes ([PDF]({{< baseurl >}}/resources/mit18_100bf10_const_of_r))
+Notes ({{% resource_link 51cf2948-850e-3865-92b6-9c7167d2d5bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +181,7 @@ Section 4.1-12
 l^p spaces
 {{< tdclose >}}
 {{< tdopen >}}
-Notes ([PDF]({{< baseurl >}}/resources/mit18_100bf10_lpcompletens))
+Notes ({{% resource_link 8b5602a4-d2e7-299c-7c9f-29be17973d88 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,7 +253,7 @@ Section 6.1-12 with alpha(x)=x
 Riemann integrability and continuity almost everywhere
 {{< tdclose >}}
 {{< tdopen >}}
-Notes ([PDF]({{< baseurl >}}/resources/mit18_100bf10_riemanninte))
+Notes ({{% resource_link 0fd469d4-84da-a147-7141-879ef252dba4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -299,7 +301,7 @@ Section 7.18-25
 Optional material: Weierstrass function, Devil's staircase
 {{< tdclose >}}
 {{< tdopen >}}
-Weierstrass function ([PDF]({{< baseurl >}}/resources/mit18_100bf10_weierstfunc)), Devil's staircase ([PDF]({{< baseurl >}}/resources/mit18_100bf10_dvl_strcs))
+Weierstrass function ({{% resource_link 432dfabb-c5dc-0151-ffc6-aa684e539a90 "PDF" %}}), Devil's staircase ({{% resource_link a86090ef-b2b8-c2b5-5e27-179ae17c2007 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
