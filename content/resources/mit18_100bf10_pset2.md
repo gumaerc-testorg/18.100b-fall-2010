@@ -6,6 +6,7 @@ file: /courses/18-100b-analysis-i-fall-2010/a3f194818297a0be395cc4603b37a05c_MIT
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT18_100BF10_pset2.pdf
 uid: a3f19481-8297-a0be-395c-c4603b37a05c
 ---
 This resource contains problems about countability, Euclidean spaces, Rudin and metric spaces.
-
