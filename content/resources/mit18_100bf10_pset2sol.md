@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions to PS2.
 file: /courses/18-100b-analysis-i-fall-2010/ebad7d7b82ee61ea72fbab92a3e5937f_MIT18_100BF10_pset2sol.pdf
+file_size: 141098
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
