@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems about continuity and Rudin.
 file: /courses/18-100b-analysis-i-fall-2010/d28588d2e24920c5b095d05e3dbec3ca_MIT18_100BF10_pset7.pdf
+file_size: 61126
 file_type: application/pdf
 learning_resource_types:
 - Assignments
