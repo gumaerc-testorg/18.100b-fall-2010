@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problems about differentiability,mean value theorem
   and Rudin.
 file: /courses/18-100b-analysis-i-fall-2010/a18486e29fa04fa13977934f7212f514_MIT18_100BF10_pset9.pdf
+file_size: 54807
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions about the comparison theorem and the
   convergence.
 file: /courses/18-100b-analysis-i-fall-2010/a6abc1de4aeed0cb9d9f6e70fc08812f_MIT18_100BF10_pset6sol.pdf
+file_size: 122734
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
