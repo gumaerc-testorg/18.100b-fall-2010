@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about metric space, continuous map
   s and the euclidean metric.
-file: /courses/18-100b-analysis-i-fall-2010/e7cdeead3c01afdda5b3feb4cdf39ac2_MIT18_100BF10_prac3.pdf
+file: /ol-ocw-studio-app/courses/18-100b-analysis-i-fall-2010/e7cdeead3c01afdda5b3feb4cdf39ac2_MIT18_100BF10_prac3.pdf
 file_size: 74323
 file_type: application/pdf
 learning_resource_types:
