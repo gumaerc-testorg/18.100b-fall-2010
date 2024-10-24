@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to PS 10.
-file: /courses/18-100b-analysis-i-fall-2010/f086b6c6aa28f0867d002c3102bfd6f4_MIT18_100BF10_pset10sol.pdf
+file: /ol-ocw-studio-app/courses/18-100b-analysis-i-fall-2010/f086b6c6aa28f0867d002c3102bfd6f4_MIT18_100BF10_pset10sol.pdf
 file_size: 100244
 file_type: application/pdf
 learning_resource_types: []

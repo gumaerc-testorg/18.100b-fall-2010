@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Riemann integrable, R is continuous,non
   negative and fn converges uniformly.
-file: /courses/18-100b-analysis-i-fall-2010/8831b252fbda527ecb789bd5ff6dd5f8_MIT18_100BF10_prac4.pdf
+file: /ol-ocw-studio-app/courses/18-100b-analysis-i-fall-2010/8831b252fbda527ecb789bd5ff6dd5f8_MIT18_100BF10_prac4.pdf
 file_size: 68680
 file_type: application/pdf
 learning_resource_types:
