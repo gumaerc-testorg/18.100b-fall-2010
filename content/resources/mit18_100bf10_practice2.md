@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /ol-ocw-studio-app/courses/18-100b-analysis-i-fall-2010/4821a826148a19b7856faa3a952c910e_MIT18_100BF10_Practice2.pdf
+file: /courses/18-100b-analysis-i-fall-2010/4821a826148a19b7856faa3a952c910e_MIT18_100BF10_Practice2.pdf
 file_size: 74316
 file_type: application/pdf
 learning_resource_types:

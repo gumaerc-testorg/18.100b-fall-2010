@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information about optional material: Devil''s
   staircase.'
-file: /ol-ocw-studio-app/courses/18-100b-analysis-i-fall-2010/a86090efb2b8c2b55e27179ae17c2007_MIT18_100BF10_Dvl_Strcs.pdf
+file: /courses/18-100b-analysis-i-fall-2010/a86090efb2b8c2b55e27179ae17c2007_MIT18_100BF10_Dvl_Strcs.pdf
 file_size: 234373
 file_type: application/pdf
 learning_resource_types:
