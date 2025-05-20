@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem Set 3 solutions.
-file: /ol-ocw-studio-app/courses/18-100b-analysis-i-fall-2010/b3aa2982a337943934e6f1fc2cb22065_MIT18_100BF10_pset3sol.pdf
+file: /courses/18-100b-analysis-i-fall-2010/b3aa2982a337943934e6f1fc2cb22065_MIT18_100BF10_pset3sol.pdf
 file_size: 144955
 file_type: application/pdf
 learning_resource_types: []

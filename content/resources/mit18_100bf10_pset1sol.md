@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems about unique positive real number, the
   parallelogram and the geometric interpretation.
-file: /ol-ocw-studio-app/courses/18-100b-analysis-i-fall-2010/53869ac8ff5c1f03729ec74348b84001_MIT18_100BF10_pset1sol.pdf
+file: /courses/18-100b-analysis-i-fall-2010/53869ac8ff5c1f03729ec74348b84001_MIT18_100BF10_pset1sol.pdf
 file_size: 174805
 file_type: application/pdf
 learning_resource_types: []

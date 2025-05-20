@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Riemann integrable, continuous,
   non negative, converges uniformly and sequence of continuous functions.
-file: /ol-ocw-studio-app/courses/18-100b-analysis-i-fall-2010/c644774efa2d5839ad4fc3a72da9f9a0_MIT18_100BF10_Prac4solTyp.pdf
+file: /courses/18-100b-analysis-i-fall-2010/c644774efa2d5839ad4fc3a72da9f9a0_MIT18_100BF10_Prac4solTyp.pdf
 file_size: 189951
 file_type: application/pdf
 learning_resource_types:
