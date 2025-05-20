@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information about optional material: Weierstrass
   function.'
-file: /ol-ocw-studio-app/courses/18-100b-analysis-i-fall-2010/432dfabbc5dc0151ffc6aa684e539a90_MIT18_100BF10_WeierstFunc.pdf
+file: /courses/18-100b-analysis-i-fall-2010/432dfabbc5dc0151ffc6aa684e539a90_MIT18_100BF10_WeierstFunc.pdf
 file_size: 243131
 file_type: application/pdf
 learning_resource_types:

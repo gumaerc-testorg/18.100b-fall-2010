@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains Problem Set 9 Solutions.
-file: /ol-ocw-studio-app/courses/18-100b-analysis-i-fall-2010/055469b783c37c833c0a5342d30aaf67_MIT18_100BF10_pset9sol.pdf
+file: /courses/18-100b-analysis-i-fall-2010/055469b783c37c833c0a5342d30aaf67_MIT18_100BF10_pset9sol.pdf
 file_size: 133348
 file_type: application/pdf
 learning_resource_types: []

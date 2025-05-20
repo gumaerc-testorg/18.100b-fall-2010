@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 5 problems about continuity and compactness,connectedness,
   Rudin, discontinuities and mono tone functions.
-file: /ol-ocw-studio-app/courses/18-100b-analysis-i-fall-2010/4ac6a0b22d9de448070dd61a2b057914_MIT18_100BF10_pset8.pdf
+file: /courses/18-100b-analysis-i-fall-2010/4ac6a0b22d9de448070dd61a2b057914_MIT18_100BF10_pset8.pdf
 file_size: 82712
 file_type: application/pdf
 learning_resource_types:

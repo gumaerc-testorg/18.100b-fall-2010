@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains about construction of the real numbers and notes.
-file: /ol-ocw-studio-app/courses/18-100b-analysis-i-fall-2010/396f95b804282d5e3b30204f22746375_MIT18_100BF10_pset5.pdf
+file: /courses/18-100b-analysis-i-fall-2010/396f95b804282d5e3b30204f22746375_MIT18_100BF10_pset5.pdf
 file_size: 68802
 file_type: application/pdf
 learning_resource_types:

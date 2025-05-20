@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems about ordered sets and fields, Rudin.
-file: /ol-ocw-studio-app/courses/18-100b-analysis-i-fall-2010/de805e384f5ada4ea6f895d74cfda53d_MIT18_100BF10_pset1.pdf
+file: /courses/18-100b-analysis-i-fall-2010/de805e384f5ada4ea6f895d74cfda53d_MIT18_100BF10_pset1.pdf
 file_size: 54194
 file_type: application/pdf
 learning_resource_types:
