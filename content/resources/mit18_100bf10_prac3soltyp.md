@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about metric space and Euclidean metric.
-file: /courses/18-100b-analysis-i-fall-2010/e1a73efa224c8f93d5ed1e007f9f867f_MIT18_100BF10_Prac3solTyp.pdf
+file: /ol-ocw-studio-app/courses/18-100b-analysis-i-fall-2010/e1a73efa224c8f93d5ed1e007f9f867f_MIT18_100BF10_Prac3solTyp.pdf
 file_size: 178967
 file_type: application/pdf
 learning_resource_types:

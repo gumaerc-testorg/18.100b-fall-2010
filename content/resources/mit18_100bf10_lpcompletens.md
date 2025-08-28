@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about l^p spaces.
-file: /courses/18-100b-analysis-i-fall-2010/8b5602a4d2e7299c7c9f29be17973d88_MIT18_100BF10_LpCompletens.pdf
+file: /ol-ocw-studio-app/courses/18-100b-analysis-i-fall-2010/8b5602a4d2e7299c7c9f29be17973d88_MIT18_100BF10_LpCompletens.pdf
 file_size: 201390
 file_type: application/pdf
 learning_resource_types:
