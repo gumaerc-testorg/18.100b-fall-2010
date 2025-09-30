@@ -11,7 +11,7 @@ uid: e5dcde0c-4bb2-17c6-c587-fd907be88080
 
 Readings are assigned in Rudin, W. _Principles of Mathematical Analysis_. 3rd ed. McGraw-Hill Science/Engineering/Math, New York, NY: McGraw-Hill, 1976. ISBN: 9780070542358.
 
-The supplementary notes are courtesy of [Prof. Todd Kemp](http://www.math.ucsd.edu/~tkemp/) and are used with permission.
+The supplementary notes are courtesy of {{% resource_link "d3ceda56-31e3-4192-8e8a-3293f965d25c" "Prof. Todd Kemp" %}} and are used with permission.
 
 {{< tableopen >}}
 {{< theadopen >}}
